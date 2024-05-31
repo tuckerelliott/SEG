@@ -50,7 +50,7 @@
 
 @media (width >= 900px) {
   :root {
-    --heading-font-size-xxl: 2em;
+    --heading-font-size-xxl: 2.875em;
     --heading-font-size-xl: 1.5em;
     --heading-font-size-l: 1.25em;
     --heading-font-size-m: 1em;
